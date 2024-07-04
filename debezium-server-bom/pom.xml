@@ -65,6 +65,12 @@
             </dependency>
 
             <dependency>
+                <groupId>org.opengauss</groupId>
+                <artifactId>opengauss-jdbc</artifactId>
+                <version>${version.opengauss.driver}</version>
+            </dependency>
+
+            <dependency>
                 <groupId>org.mongodb</groupId>
                 <artifactId>mongodb-driver-core</artifactId>
                 <version>${version.mongo.driver}</version>

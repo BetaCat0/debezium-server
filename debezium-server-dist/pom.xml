@@ -64,6 +64,10 @@
                 </dependency>
                 <dependency>
                     <groupId>io.debezium</groupId>
+                    <artifactId>debezium-connector-opengauss</artifactId>
+                </dependency>
+                <dependency>
+                    <groupId>io.debezium</groupId>
                     <artifactId>debezium-connector-mongodb</artifactId>
                 </dependency>
                 <dependency>
